@@ -1,6 +1,6 @@
 # Saule Engine
 ![project_layout](https://github.com/S4ule/saule_engine/blob/main/doc/project.png?raw=true)
-Note the the project layout is not 100% true anymore, but i give a good idea of the project.
+Note the the project layout is not 100% true anymore, but he give a good idea of the project.
 
 # Build
 First make sure you have all the lib installed in your system, here the list of lib used in the Makefile:
