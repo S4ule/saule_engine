@@ -10,6 +10,10 @@ First make sure you have all the lib installed in your system, here the list of 
 - libXrandr
 - libXi
 
-If you have all the build you can type `make` and the project will automaticly build everything for you.
-After you can run the project with `./scop`.
+You should have `make` and `c++` install in your system.
+- sudo apt install c++
+- sudo apt install make
+
+If you have everything, you can build the project with `make`.
+And after he finish to build you can run the project with `./scop`.
 ![project](https://github.com/S4ule/saule_engine/blob/main/doc/Screenshot%20from%202025-04-05%2010-02-57.png?raw=true)
